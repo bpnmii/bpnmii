@@ -77,9 +77,9 @@ Continuar evoluindo como desenvolvedora, aprofundando conhecimentos em <strong>s
 ---
 
 
-<img src="https://i.pinimg.com/originals/71/ac/39/71ac394ed4531bf0d13abc5cb1e04d25.gif" width="37%" height="200px"/>
-<img src="https://i.pinimg.com/originals/c2/22/96/c222963981b256e3a82c4507d44bb60a.gif" width="35%" height="200px"/>
-<img src="https://i.pinimg.com/1200x/c8/27/47/c827470ecca36df329f99ffba0622519.jpg" width="27%" height="200px"/>
+<img src="https://i.pinimg.com/originals/71/ac/39/71ac394ed4531bf0d13abc5cb1e04d25.gif" width="30%" height="200px"/>
+<img src="https://i.pinimg.com/originals/c2/22/96/c222963981b256e3a82c4507d44bb60a.gif" width="30%" height="200px"/>
+<img src="https://i.pinimg.com/1200x/c8/27/47/c827470ecca36df329f99ffba0622519.jpg" width="25%" height="200px"/>
 
 
 
