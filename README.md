@@ -1,6 +1,5 @@
 <img src="https://i.pinimg.com/originals/82/86/ab/8286ab69d653c9594dbf980701aaf0cd.gif" width="100%" height="250px"/>
 
-
 # 🩷 Oii, eu sou a Milena!
 
 <p align="center">
@@ -23,10 +22,10 @@ Tenho experiência com tecnologias do ecossistema JavaScript/TypeScript, atuando
 
 <h4>📌 O que estou focando agora</h4>
 
-- Construção de APIs REST escaláveis  
-- Estruturação de software (camadas, SOLID, Clean Architecture)  
-- Otimização e boas práticas com Node.js  
-- Integração com bancos de dados relacionais (SQL)  
+- Construção de APIs REST escaláveis
+- Estruturação de software (camadas, SOLID, Clean Architecture)
+- Otimização e boas práticas com Node.js
+- Integração com bancos de dados relacionais (SQL)
 
 <br/>
 <h4>📈 Objetivo</h4>
@@ -44,8 +43,6 @@ Continuar evoluindo como desenvolvedora, aprofundando conhecimentos em <strong>s
 </table>
 
 ---
-
-
 
 <h2 align="center">🚀 Tecnologias e Linguagens</h2>
 
@@ -76,12 +73,26 @@ Continuar evoluindo como desenvolvedora, aprofundando conhecimentos em <strong>s
 
 ---
 
+<table>
+<tr>
+<td width="37%" valign="top">
 
-<img src="https://i.pinimg.com/originals/71/ac/39/71ac394ed4531bf0d13abc5cb1e04d25.gif" width="30%" height="200px"/>
-<img src="https://i.pinimg.com/originals/c2/22/96/c222963981b256e3a82c4507d44bb60a.gif" width="30%" height="200px"/>
-<img src="https://i.pinimg.com/1200x/c8/27/47/c827470ecca36df329f99ffba0622519.jpg" width="25%" height="200px"/>
+ <img src="https://i.pinimg.com/originals/71/ac/39/71ac394ed4531bf0d13abc5cb1e04d25.gif" width="100%" height="200px"/>
+ 
+</td>
+<td width="27%" align="center">
+
+<img src="https://i.pinimg.com/1200x/c8/27/47/c827470ecca36df329f99ffba0622519.jpg" width="100%" height="200px"/>
+</td>
+
+<td width="35%" align="center">
 
 
+<img src="https://i.pinimg.com/originals/c2/22/96/c222963981b256e3a82c4507d44bb60a.gif" width="100%" height="200px"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
